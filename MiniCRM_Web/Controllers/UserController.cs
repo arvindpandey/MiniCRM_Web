@@ -9,7 +9,7 @@ namespace MiniCRM_Web.Controllers
     {
         public IActionResult GetUser()
         {
-            return Ok(new { Name = "Arvind", Role = "Administrator" });
+            return Ok(new { Name = "Arvind Pndey", Role = "Administrator" });
         }
     }
 }
