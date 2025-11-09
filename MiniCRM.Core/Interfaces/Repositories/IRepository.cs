@@ -16,3 +16,6 @@ namespace MiniCRM.Core.Interfaces.Repositories
         Task SaveChangesAsync();
     }
 }
+
+
+ 
